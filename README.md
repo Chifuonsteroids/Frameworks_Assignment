@@ -1,0 +1,1 @@
+CORD-19 Data Explorer – A Streamlit app for exploring COVID-19 research metadata. 📊 Filter publications by year, analyze top journals, generate word clouds, view trends, and export filtered results as CSV.
